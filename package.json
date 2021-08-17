@@ -1,0 +1,16 @@
+{
+  "name": "sastoken_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "utf-8": "^2.0.0",
+    "utf8": "^3.0.0"
+  }
+}
